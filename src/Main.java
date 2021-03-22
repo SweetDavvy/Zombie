@@ -34,7 +34,7 @@ public class Main {
         private void growl() {
         }
 
-        private void attack() {
+        private void attack( {
         }
 
     }
