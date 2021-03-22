@@ -19,7 +19,7 @@ public class Main {
 
 
             public void growl(){
-                System.out.print("Raaaauuughhhh");
+
                 super.growl();
             }
 
